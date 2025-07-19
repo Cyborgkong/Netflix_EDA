@@ -41,7 +41,7 @@ Python
 
 Pandas for data manipulation
 
-Matplotlib / Seaborn for visualization
+Matplotlib
 
 🔍 Key Steps Performed
 Data Cleaning: Filtered for only movies from the 1990s.
@@ -52,12 +52,12 @@ Mode Calculation: Found the most frequent movie length.
 
 Genre Filtering: Identified and counted short action movies.
 
-Visualizations: (optional—include if you plotted histograms or bar charts)
+Visualizations: plotted histograms.
 
 📈 Results
-Most Common Movie Duration: X minutes (replace with your result)
+Most Common Movie Duration: 93 minutes
 
-Short Action Movies Released in the 1990s: Y titles (replace with count)
+Short Action Movies Released in the 1990s: 7 in total
 
 ✅ Future Improvements
 Deep dive into genre trends over time.
